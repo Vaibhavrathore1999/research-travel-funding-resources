@@ -27,7 +27,7 @@ Why this repo
 | **TWAS – UNESCO Travel Support**                  | Global South | Travel                         | Active        | [https://twas.org/opportunities](https://twas.org/opportunities) | For developing country researchers   |
 | **OWSD Travel Grants (Women)**                    | Global       | Travel + registration          | Active        | [https://owsd.net](https://owsd.net)                             | For women researchers                |
 | **AICTE-INAE Travel Grant Scheme** | India  | Registration fee, visa, 50% airfare, local transport | Active | [https://www.inae.in/aicte-inae-travel-grant-scheme/](https://www.inae.in/aicte-inae-travel-grant-scheme/) | Up to ₹ 1,00,000; for AICTE-approved BTech / MTech students |
-| **SIGWEB Student Travel Grant** | ACM SIGWEB   | Travel & registration | Up to US$ 750 | Active | [https://www.sigweb.org/community/student-travel-grant](https://www.sigweb.org/community/student-travel-grant) | For students presenting at SIGWEB-sponsored conferences; contact conference chair / SIGWEB liaison |
+| **SIGWEB Student Travel Grant** | ACM SIGWEB   | Travel & registration | Active  | [https://www.sigweb.org/community/student-travel-grant](https://www.sigweb.org/community/student-travel-grant) | Up to US$ 750 | For students presenting at SIGWEB-sponsored conferences; contact conference chair / SIGWEB liaison |
 
 
 
